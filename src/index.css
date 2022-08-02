@@ -48,7 +48,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Segoe UI', sans-serif;
   font-weight: 500;
   margin: 5px 0;
   line-height: 1.25;
@@ -99,6 +99,11 @@ header {
 
 header a {
   color: var(--light);
+  padding-left: 30px;
+}
+
+header ul {
+  padding-top: 5px;
 }
 
 footer img {

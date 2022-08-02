@@ -10,13 +10,13 @@ function Footer() {
             <h2 id="footer">Socials</h2>
             <div className="my-2"><li>
                 <a href="https://www.instagram.com/call_me_rizzo/">
-                    <img src={igSocial} className="my-2" style={{ width: "10%" }} alt="ig icon" /></a>
+                    <img src={igSocial} className="my-2" style={{ width: "64px" }} alt="ig icon" /></a>
 
                 <a href="https://www.facebook.com/TheAngryPaw/">
-                    <img src={fbSocial} className="my-2" style={{ width: "10%" }} alt="fb icon" /></a>
+                    <img src={fbSocial} className="my-2" style={{ width: "64px" }} alt="fb icon" /></a>
 
                 <a href="https://twitter.com/theangrypaw">
-                    <img src={twSocial} className="my-2" style={{ width: "10%" }} alt="fb icon" /></a>
+                    <img src={twSocial} className="my-2" style={{ width: "64px" }} alt="fb icon" /></a>
             </li></div>
         </footer>
     )
