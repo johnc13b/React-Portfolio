@@ -101,6 +101,10 @@ header a {
   color: var(--light);
 }
 
+footer img {
+  padding-right: 20px;
+}
+
 button {
   font-size: 1rem;
   text-decoration: none;
