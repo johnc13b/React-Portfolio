@@ -60,6 +60,12 @@ const PhotoList = ({ category }) => {
             description:
                 'An introduction to Node & MYSQL'
         },
+        {
+            name: 'React',
+            category: 'tech',
+            description:
+                'An introduction to React'
+        },
     ]);
 
     const currentPhotos = photos.filter(photo => photo.category === category);
