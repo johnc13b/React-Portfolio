@@ -6,7 +6,7 @@ function About() {
     return (
         <section className="my-5" >
             <h1 id="about">Who am I?</h1>
-            <img src={coverImage} className="my-2" style={{ width: "25%" }} alt="cover" />
+            <img src={coverImage} className="my-2" style={{ width: "20%" }} alt="cover" />
             <div className="my-2">
                 Don't tell me about the old adage of "You can't teach an old dog new tricks." I'm not getting any younger. But I also refuse to be left behind.
                 <p />
