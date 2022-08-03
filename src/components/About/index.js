@@ -1,5 +1,6 @@
 import React from 'react';
 import coverImage from "../../assets/cover/cover-image.png";
+import resume from "../../assets/docs/webdev.pdf"
 
 function About() {
 
@@ -12,8 +13,8 @@ function About() {
                 <p />
                 A wakling example of the old saying "Jack of all trades, master of none." With a professional background in automotive and mechanical repair, working with my hands has always been my strong suit. I have also had a strong interest in computer technology since I was very young. In turn, I've dabbled in various aspects of the category as a hobby.
                 <p />
-                <a href="../../assets/docs/webdev.pdf" target="_blank" download>
-                    Download Resume
+                <a href={resume} download>
+                    Download My Resume
                 </a>
             </div>
         </section>
