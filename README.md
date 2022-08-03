@@ -4,7 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
-A React based build of my portfolio.
+A React based build of my portfolio.  
+Deployed URL: https://johnc13b.github.io/React-Portfolio/
 
 ## Framework
 
