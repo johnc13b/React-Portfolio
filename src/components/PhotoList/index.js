@@ -40,7 +40,7 @@ const PhotoList = ({ category }) => {
             name: 'HTML & CSS',
             category: 'tech',
             description:
-                'An introduction to coding'
+                'An introduction to coding',
         },
         {
             name: 'Portfolio - Basic',
@@ -65,6 +65,12 @@ const PhotoList = ({ category }) => {
             category: 'tech',
             description:
                 'An introduction to React'
+        },
+        {
+            name: 'MERN',
+            category: 'tech',
+            description:
+                'React based, Heroku deployed'
         },
     ]);
 
