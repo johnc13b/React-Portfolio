@@ -4,7 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
-A React based build of my portfolio.  
+An updated coding portfolio built with React to display experience and works from both past and present. This is an example of an evolving personal and professional portfolio.  
+
 Deployed URL: https://johnc13b.github.io/React-Portfolio/
 
 ## Framework
